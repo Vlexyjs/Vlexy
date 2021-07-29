@@ -1,2 +1,2 @@
-# Vlexyjs
+# Vlexy
 Hi, I am Vlexy :))
